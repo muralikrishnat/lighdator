@@ -1,0 +1,25 @@
+{
+  "name": "lighdator",
+  "version": "0.8.0",
+  "description": "Light Weight Javascript Validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muralikrishnat/lighdator.git"
+  },
+  "keywords": [
+    "light",
+    "weight",
+    "javascript",
+    "validator"
+  ],
+  "author": "Muralikrishna T <muralikrishna8811@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muralikrishnat/lighdator/issues"
+  },
+  "homepage": "https://github.com/muralikrishnat/lighdator#readme"
+}
