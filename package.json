@@ -1,6 +1,6 @@
 {
   "name": "lighdator",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Light Weight Javascript Validator",
   "main": "index.js",
   "scripts": {
